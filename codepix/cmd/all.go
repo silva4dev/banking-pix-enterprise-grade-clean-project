@@ -4,9 +4,9 @@ import (
 	"os"
 
 	ckafka "github.com/confluentinc/confluent-kafka-go/kafka"
-	"github.com/silva4dev/microservices-codepix-project/application/grpc"
-	"github.com/silva4dev/microservices-codepix-project/application/kafka"
-	"github.com/silva4dev/microservices-codepix-project/infrastructure/db"
+	"github.com/silva4dev/banking-pix-enterprise-grade-clean-project/application/grpc"
+	"github.com/silva4dev/banking-pix-enterprise-grade-clean-project/application/kafka"
+	"github.com/silva4dev/banking-pix-enterprise-grade-clean-project/infrastructure/db"
 	"github.com/spf13/cobra"
 )
 

@@ -5,7 +5,7 @@ import (
 
 	"log"
 
-	"github.com/silva4dev/microservices-codepix-project/domain/model"
+	"github.com/silva4dev/banking-pix-enterprise-grade-clean-project/domain/model"
 )
 
 type TransactionUseCase struct {

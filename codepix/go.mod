@@ -1,4 +1,4 @@
-module github.com/silva4dev/microservices-codepix-project
+module github.com/silva4dev/banking-pix-enterprise-grade-clean-project
 
 go 1.22
 

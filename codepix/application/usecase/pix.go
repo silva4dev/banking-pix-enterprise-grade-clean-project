@@ -1,6 +1,6 @@
 package usecase
 
-import "github.com/silva4dev/microservices-codepix-project/domain/model"
+import "github.com/silva4dev/banking-pix-enterprise-grade-clean-project/domain/model"
 
 type PixUseCase struct {
 	PixKeyRepository model.PixKeyRepositoryInterface

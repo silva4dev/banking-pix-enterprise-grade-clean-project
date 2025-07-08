@@ -6,10 +6,10 @@ import (
 
 	ckafka "github.com/confluentinc/confluent-kafka-go/kafka"
 	"github.com/jinzhu/gorm"
-	"github.com/silva4dev/microservices-codepix-project/application/factory"
-	appmodel "github.com/silva4dev/microservices-codepix-project/application/model"
-	"github.com/silva4dev/microservices-codepix-project/application/usecase"
-	"github.com/silva4dev/microservices-codepix-project/domain/model"
+	"github.com/silva4dev/banking-pix-enterprise-grade-clean-project/application/factory"
+	appmodel "github.com/silva4dev/banking-pix-enterprise-grade-clean-project/application/model"
+	"github.com/silva4dev/banking-pix-enterprise-grade-clean-project/application/usecase"
+	"github.com/silva4dev/banking-pix-enterprise-grade-clean-project/domain/model"
 )
 
 type KafkaProcessor struct {

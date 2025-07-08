@@ -3,8 +3,8 @@ package cmd
 import (
 	"os"
 
-	"github.com/silva4dev/microservices-codepix-project/application/grpc"
-	"github.com/silva4dev/microservices-codepix-project/infrastructure/db"
+	"github.com/silva4dev/banking-pix-enterprise-grade-clean-project/application/grpc"
+	"github.com/silva4dev/banking-pix-enterprise-grade-clean-project/infrastructure/db"
 	"github.com/spf13/cobra"
 )
 

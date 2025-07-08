@@ -3,8 +3,8 @@ package grpc
 import (
 	"context"
 
-	"github.com/silva4dev/microservices-codepix-project/application/grpc/pb"
-	"github.com/silva4dev/microservices-codepix-project/application/usecase"
+	"github.com/silva4dev/banking-pix-enterprise-grade-clean-project/application/grpc/pb"
+	"github.com/silva4dev/banking-pix-enterprise-grade-clean-project/application/usecase"
 )
 
 type PixGrpcService struct {

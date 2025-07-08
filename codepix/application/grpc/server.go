@@ -7,9 +7,9 @@ import (
 	"net"
 
 	"github.com/jinzhu/gorm"
-	"github.com/silva4dev/microservices-codepix-project/application/grpc/pb"
-	"github.com/silva4dev/microservices-codepix-project/application/usecase"
-	"github.com/silva4dev/microservices-codepix-project/infrastructure/repository"
+	"github.com/silva4dev/banking-pix-enterprise-grade-clean-project/application/grpc/pb"
+	"github.com/silva4dev/banking-pix-enterprise-grade-clean-project/application/usecase"
+	"github.com/silva4dev/banking-pix-enterprise-grade-clean-project/infrastructure/repository"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 )
